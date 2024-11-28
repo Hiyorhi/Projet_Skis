@@ -1,0 +1,40 @@
+body {
+  margin: 12px 24px;
+}
+
+.grostitre { 
+  text-align: center;
+  font-size: 40px;
+}
+
+.center {
+  text-align: center;
+}
+
+.f-20px {
+  font-size: 30px;
+}
+
+.materielDeSki {
+  text-decoration: underline;
+  color: blue;
+  font-size: 20px;
+}
+
+.parents {
+  display: flex;
+  justify-content: space-between;
+}
+
+.enfants {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid black;
+  border-radius: 4px;
+  padding: 8px;
+}
+
+.underlineRed {
+  text-decoration: underline;
+  color: red;
+}
