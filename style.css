@@ -2,6 +2,12 @@ body {
   margin: 12px 24px;
 }
 
+.imageb {
+  width: 100%;
+  height: 22em;
+  object-fit: cover;
+}
+
 .grostitre { 
   text-align: center;
   font-size: 40px;
