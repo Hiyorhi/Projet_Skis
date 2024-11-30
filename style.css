@@ -38,3 +38,15 @@ body {
   text-decoration: underline;
   color: red;
 }
+
+.autreMaterielsDiv {
+  display: flex;
+  justify-content: space-between;
+  font-size: 20px;
+}
+
+.autreMaterielsLocationEtVente  {  
+  text-decoration: underline;
+  color: brown;
+  font-size: 20px; 
+}
